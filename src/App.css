@@ -6,7 +6,7 @@
   
   background-size: 100%;
   background-repeat: no-repeat;
-  background-color: #cbbcb1;
+  background-color: #efb08c;
 }
 
 h1{
@@ -15,7 +15,7 @@ h1{
   
 }
 .books{
-  
+
   padding: 10px;
 }
 
@@ -93,4 +93,10 @@ li{
 ul{
   margin: 0px;
   padding: 0px;
+}
+
+.pagUL{
+  list-style: disc;
+  display: inline;
+  
 }
