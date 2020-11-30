@@ -2,7 +2,6 @@ import React, { useState,useEffect} from 'react'
 import Header from './component/Header'
 import Books from './component/Books'
 import './App.css'
-import MyChart from './component/MyChart'
 import axios from 'axios'
 
 function App() {
