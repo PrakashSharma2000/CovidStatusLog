@@ -1,6 +1,5 @@
-{
-  "homepage": "http://PrakashSharma2000.github.io/CovidStatusLog",
-  "name": "Covid-19",
+{ "homepage": "http://PrakashSharma2000.github.io/CovidStatusLog",
+  "name": "myanime",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
