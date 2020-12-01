@@ -22,7 +22,7 @@ function App() {
       const result = await axios(`https://covid19-api.org/api/status`)
       console.log(result.data)
       setItems(result.data)
-      setIsLoading(true)
+      setIsLoading(false)
     }
     fetchItems()
   }, [])
