@@ -95,8 +95,8 @@ ul{
   padding: 0px;
 }
 
-.pagUL{
-  list-style: disc;
-  display: inline;
+.page-item{
+  
+ display: inline-block;
   
 }

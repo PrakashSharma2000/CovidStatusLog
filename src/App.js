@@ -15,7 +15,7 @@ function App() {
 
 //Pagination part
   const [currentPage, setcurrentPage]=useState(1)
-  const [page]=useState(12)
+  const [page]=useState(8)
 
   useEffect( () => {
     const fetchItems =async () =>{
